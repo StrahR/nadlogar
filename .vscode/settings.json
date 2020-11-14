@@ -1,0 +1,5 @@
+{
+    "python.venvPath": "/home/muf/Workspace/nadlogar/nadlogar",
+    "pyright.disableLanguageServices": true,
+    "python.pythonPath": "nadlogar/venv/bin/python3"
+}
